@@ -11,3 +11,5 @@ This is the place where I opensource stuff and break things :rofl:
 
 [Twitter](https://twitter.com/sqrtthree) •
 [Blog](https://blog.sqrtthree.com)
+
+<img width="100%" src="https://github.com/sqrthree/sqrthree/blob/output/github-contribution-grid-snake.svg">
