@@ -16,3 +16,5 @@ This is the place where I opensource stuff and break things :rofl:
 [Blog](https://blog.sqrtthree.com)
 
 <img width="100%" src="https://github.com/sqrthree/sqrthree/blob/output/github-contribution-grid-snake.svg">
+
+![](https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nuxtjs,gatsby,wasm,nodejs,go,git,docker,kubernetes,figma)
